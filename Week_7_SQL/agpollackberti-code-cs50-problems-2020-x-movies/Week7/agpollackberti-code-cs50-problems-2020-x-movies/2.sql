@@ -1,0 +1,1 @@
+Select birth from people WHERE name like "Emma Stone"
